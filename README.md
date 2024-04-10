@@ -112,5 +112,5 @@ Our research has determined the best features with the best model to be used for
 
 Dataset: [Flights](https://www.kaggle.com/datasets/monareyhanii/flights/data)   
 Notebook: [Link](https://github.com/danielringer/Capstone_20/blob/main/Airline_Delay_DataAnalysis_Modeling.ipynb)  
-Technical Document: [Link](https://github.com/danielringer/Capstone_20/blob/main/README.md)
+Technical Document: [Link](https://github.com/danielringer/Capstone_20/blob/main/README.md)  
 Final Report: <placeholder for final>
