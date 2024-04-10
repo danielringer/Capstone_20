@@ -42,19 +42,19 @@ The dataset now contains 14 columns.
 **Feature Selection**
 Using the continuos target variable of arr_delay, we use Mutual Info Regression to determine the best feature set. This is done by determining the amount of information one feature gives about another feature.
 
-dep_delay : : 0.5227661922512521
-arr_time : : 0.2713665576980766
-dep_time : : 0.08424643906888019
-arr_delay : : 0.05181259734575683
-sched_arr_time : : 0.04328327005650756
-flight : : 0.04258818817168386
-sched_dep_time : : 0.04077437337558987
-air_time : : 0.037129841756029514
-origin_logReg : : 0.032199430226321546
-distance : : 0.022856231347652134
-month : : 0.022529250630472397
-day : : 0.012191358068675662
-carrier_logReg : : 0.005138609972116903
+dep_delay : : 0.5227661922512521  
+arr_time : : 0.2713665576980766  
+dep_time : : 0.08424643906888019  
+arr_delay : : 0.05181259734575683  
+sched_arr_time : : 0.04328327005650756  
+flight : : 0.04258818817168386  
+sched_dep_time : : 0.04077437337558987  
+air_time : : 0.037129841756029514  
+origin_logReg : : 0.032199430226321546  
+distance : : 0.022856231347652134  
+month : : 0.022529250630472397  
+day : : 0.012191358068675662  
+carrier_logReg : : 0.005138609972116903  
 
 We will use the features with a score of 4% and higher. 
 
@@ -110,7 +110,7 @@ Our research has determined the best features with the best model to be used for
 
 #### Outline of project
 
-Dataset: [Flights](https://www.kaggle.com/datasets/monareyhanii/flights/data)
-Notebook: Link
-Technical Document: 
+Dataset: [Flights](https://www.kaggle.com/datasets/monareyhanii/flights/data)   
+Notebook: [Link](https://github.com/danielringer/Capstone_20/blob/main/Airline_Delay_DataAnalysis_Modeling.ipynb)  
+Technical Document: [Link](https://github.com/danielringer/Capstone_20/blob/main/README.md)
 Final Report: <placeholder for final>
